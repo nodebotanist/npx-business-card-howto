@@ -17,8 +17,9 @@ const boxenOptions = {
 
 const newLine = '\n'
 
-const output = chalk.blue('Hello, Twitch! I am Ace the 😼') + newLine +
-chalk.white('Favorite Food:') + chalk.blue('Plastic Wrap!') + newLine + 
+const output = chalk.blue(`                Hello, Twitch! I am Ace the 😼`) + newLine + newLine +
+chalk.white(`    Favorite Food: `) + chalk.blue('Plastic Wrap!') + newLine +
+chalk.white('Favorite Nap Spot: ') + chalk.cyan(`Kas' keyboard. Or tablet. Or book. Or bots.`) + newLine + newLine + 
 chalk.green('This is from a tutorial about making '+ newLine + 'your own npx cards') + newLine +
 chalk.magenta('The tutorial can be found at :') + newLine +
 chalk.blue.bold('https://github.com/nodebotanist/npx-business-card-howto') + newLine +
