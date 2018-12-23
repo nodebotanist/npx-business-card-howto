@@ -22,6 +22,10 @@
   ],
   "author": "nodebotanist <the@nodebotani.st>",
   "license": "MIT",
+  "files": [
+    "bin/card.js",
+    "bin/output"
+  ],
   "bugs": {
     "url": "https://github.com/nodebotanist/npx-business-card-howto/issues"
   },
