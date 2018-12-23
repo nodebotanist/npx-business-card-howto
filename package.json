@@ -1,6 +1,6 @@
 {
   "name": "ace-the-cat",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Ace the cat's business card",
   "main": "bin/card.js",
   "bin": {
