@@ -17,4 +17,4 @@ const boxenOptions = {
 
 const output = chalk.blue('Hello, Twitch!')
 
-fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, boxenOptions)))
+fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.magenta(boxen(output, boxenOptions)))
