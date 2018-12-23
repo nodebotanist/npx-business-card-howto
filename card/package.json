@@ -24,11 +24,9 @@
     "url": "https://github.com/nodebotanist/npx-business-card-howto/issues"
   },
   "homepage": "https://github.com/nodebotanist/npx-business-card-howto#readme",
-  "dependencies": {
-    "boxen": "^2.1.0",
-    "chalk": "^2.4.1"
-  },
   "devDependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1",
     "eslint": "^5.11.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
